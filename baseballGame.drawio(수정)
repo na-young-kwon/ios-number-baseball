@@ -1,0 +1,192 @@
+<mxfile host="app.diagrams.net" modified="2021-10-05T18:28:59.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="KDLfNdraUwu5G8_eapHY" version="15.4.3" type="github">
+  <diagram id="ywMGq3YlmWIvPyukyNRm" name="Page-1">
+    <mxGraphModel dx="946" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="oEQ9v9iEOpAzofG8B1pc-1" target="UhYWy89zvZPlmEAXTa8H-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oEQ9v9iEOpAzofG8B1pc-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430.55" y="70" width="113.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-3" target="UhYWy89zvZPlmEAXTa8H-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;입력받은 숫자와 랜덤 숫자 중&lt;br style=&quot;font-size: 9px;&quot;&gt;일치하는 숫자의 개수를 계산한다&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="427.36" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-5" target="UhYWy89zvZPlmEAXTa8H-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="478" y="654" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-18" value="아니오" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="UhYWy89zvZPlmEAXTa8H-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.1993" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-38" value="예" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UhYWy89zvZPlmEAXTa8H-5" target="UhYWy89zvZPlmEAXTa8H-41" edge="1">
+          <mxGeometry x="-0.0479" relative="1" as="geometry">
+            <mxPoint x="369" y="324" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="485" />
+              <mxPoint x="390" y="485" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-5" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;일치하는 숫자의 개수가 0 인가?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="423.61" y="450" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-14" target="UhYWy89zvZPlmEAXTa8H-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;스트라이크/볼의 갯수를 계산한다&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="427.36" y="636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-21" target="UhYWy89zvZPlmEAXTa8H-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-21" target="UhYWy89zvZPlmEAXTa8H-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-21" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;스트라이크의 개수가 3개인가?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="428.785" y="782" width="117.15" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UhYWy89zvZPlmEAXTa8H-26" target="oEQ9v9iEOpAzofG8B1pc-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1030" as="targetPoint" />
+            <mxPoint x="486" y="1010" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="486" y="922" />
+              <mxPoint x="486" y="940" />
+              <mxPoint x="170" y="940" />
+              <mxPoint x="170" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-26" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;게임 승리&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="427.36" y="876" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=9;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UhYWy89zvZPlmEAXTa8H-29" target="UhYWy89zvZPlmEAXTa8H-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279" y="874" as="sourcePoint" />
+            <mxPoint x="279" y="644" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-74" value="아니오" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="UhYWy89zvZPlmEAXTa8H-42" vertex="1" connectable="0">
+          <mxGeometry x="-0.0437" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UhYWy89zvZPlmEAXTa8H-29" target="UhYWy89zvZPlmEAXTa8H-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="283" y="899" as="sourcePoint" />
+            <mxPoint x="283" y="939" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-62" value="네" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="UhYWy89zvZPlmEAXTa8H-61" vertex="1" connectable="0">
+          <mxGeometry x="-0.2928" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-29" value="남은기회가 0인가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="226" y="750" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UhYWy89zvZPlmEAXTa8H-33" target="oEQ9v9iEOpAzofG8B1pc-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="90" as="targetPoint" />
+            <mxPoint x="240" y="969" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="898" />
+              <mxPoint x="190" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-33" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;게임 패배&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="210" y="873" width="112" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-39" target="UhYWy89zvZPlmEAXTa8H-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-39" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1-9사이 숫자를 입력받는다&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="427.36" y="284" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UhYWy89zvZPlmEAXTa8H-41" target="UhYWy89zvZPlmEAXTa8H-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="266" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-41" value="기회 1 차감" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="221" y="467.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-44" target="UhYWy89zvZPlmEAXTa8H-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-44" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;입력받은 숫자와 랜덤 숫자 중&lt;br style=&quot;font-size: 9px;&quot;&gt;순서까지 일치하는&lt;br style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;숫자의개수를 계산한다&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="427.36" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-46" value="프로그램 종료" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-51" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="UhYWy89zvZPlmEAXTa8H-47" target="UhYWy89zvZPlmEAXTa8H-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UhYWy89zvZPlmEAXTa8H-47" target="UhYWy89zvZPlmEAXTa8H-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="409" y="225" />
+              <mxPoint x="409" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-55" value="그 외" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="UhYWy89zvZPlmEAXTa8H-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.1491" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="UhYWy89zvZPlmEAXTa8H-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="225" />
+              <mxPoint x="610" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-54" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="UhYWy89zvZPlmEAXTa8H-53" vertex="1" connectable="0">
+          <mxGeometry x="0.1402" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-47" value="입력이 몇인가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="431.54" y="200" width="111.64" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-48" target="UhYWy89zvZPlmEAXTa8H-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-48" value="&lt;font size=&quot;1&quot;&gt;메뉴 번호를 입력 받는다&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="424.145" y="140" width="126.43" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-68" target="UhYWy89zvZPlmEAXTa8H-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-68" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;스트라이크/볼 출력&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="427.36" y="726" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="UhYWy89zvZPlmEAXTa8H-70" target="UhYWy89zvZPlmEAXTa8H-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhYWy89zvZPlmEAXTa8H-70" value="남은 기회 출력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="318.78000000000003" y="770" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
